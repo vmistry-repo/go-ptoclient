@@ -1,2 +1,5 @@
-# ptoclient
-Predictive Timeout for Go based http.Client
+# go-PTOC
+
+Go Predictive Timeout Client
+
+Build: ./build
