@@ -1,4 +1,4 @@
-module github.com/vmistry-repo/ptoclient
+module github.com/vmistry-repo/go-ptoclient
 
 go 1.17
 
